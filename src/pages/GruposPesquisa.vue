@@ -82,7 +82,6 @@
 </template>
 
 <script>
-import { defineProps, reactive } from "vue";
 export default {};
 </script>
 
